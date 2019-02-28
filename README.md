@@ -1,6 +1,11 @@
 # TinyLoRa Module & Breakout
 This repo contains all the necessary design and fabrication files for the TinyLora module and its breakout board (in Feather form-factor).
 
+
+### v0.1 working prototype:
+![TLM01 Breakout v1 Render](TinyLoRa-Docs/03-oshparkPCBsoldered.jpg)
+
+
 ## Specs:
 - [ATSAMR34J18](http://ww1.microchip.com/downloads/en/DeviceDoc/SAMR34-R35-Low-Power-LoRa-Sub-GHz-SiP-Data-Sheet-DS70005356B.pdf) LoRA System-in-Package (SiP) based RF module
 - ARM Cortex M0+ MCU & LoRa Radio
@@ -11,11 +16,14 @@ This repo contains all the necessary design and fabrication files for the TinyLo
 - IO pins: 27
 - Module Dimenions: ~16.5x14x2 mm
 
-
-![TLM01 v1 front](/TLM-v1-Module/TLM-v1/DesignOutputs/TLM-v1-render-front.png)
-![TLM01 v1 back](/TLM-v1-Module/TLM-v1/DesignOutputs/TLM-v1-render-back.png)
-![TLM01 v1 OSHpark PCB](TLM-v1-Docs/02-oshparkPCB.jpg)
-![TLM01 v1 first prototypes](TLM-v1-Docs/01-firstPrototyes.jpg)
+### v1 render:
+![TLM01 Breakout v1 Render](TinyLoRa-Breakout/TLM-breakout-v1/DesingOutputs/TLM01-breakout-03.png)
+![TLM01 v1 front](/TinyLoRa-Module/TLM-v1/DesignOutputs/TLM-v1-render-front.png)
+![TLM01 v1 back](/TinyLoRa-Module/TLM-v1/DesignOutputs/TLM-v1-render-back.png)
+![TLM01 v1 OSHpark PCB](TinyLoRa-Docs/02-oshparkPCB.jpg)
+![TLM01 v1 first prototypes](TinyLoRa--Docs/01-firstPrototyes.jpg)
+![TLM01 Breakout v1 Front](TinyLoRa-Breakout/TLM-breakout-v1/DesingOutputs/TLM01-breakout-01.png)
+![TLM01 Breakout v1 Back](TinyLoRa-Breakout/TLM-breakout-v1/DesingOutputs/TLM01-breakout-02.png)
 
 
 <div align="center">
