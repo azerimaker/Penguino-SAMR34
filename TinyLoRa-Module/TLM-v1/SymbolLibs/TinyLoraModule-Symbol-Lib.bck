@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATSAMR34J18BT
+D SAML21 32-bit ARM® Cortex® M0+, 256KB Flash, 40KB SRAM LoRa
+K SAML21, LoRa
+$ENDCMP
+#
+$CMP SKY13373-460LF
+D 0.1 to 6.0 GHz SP3T Switch
+K SP3T RF Switch
+$ENDCMP
+#
+$CMP TYETBCSANF-32.000000
+D  32MHz TCXO Clipped Sine Wave Oscillator 2.8 V ~ 3.3 V 4-SMD, No Lead
+K XTAL OSC TCXO 32MHZ SNWV
+$ENDCMP
+#
+#End Doc Library
