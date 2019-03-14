@@ -194,6 +194,7 @@ F 0 "U1" H 8900 1200 39  0000 C CNN
 F 1 "TLM01" H 8900 1300 59  0000 C CNB
 F 2 "TLM-footprints:TLM-01-footprint" H 8250 1750 39  0001 C CNN
 F 3 "" H 8250 1750 39  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    8200 1700
 	1    0    0    -1  
 $EndComp
@@ -205,6 +206,7 @@ F 0 "J1" H 9575 1125 50  0000 L CNN
 F 1 "SMA-Edge-Mount" H 9575 1025 50  0000 L CNN
 F 2 "mySMA_Connectos:SMA_J_P_X_ST_EM1_EdgeMount" H 9475 1025 50  0001 C CNN
 F 3 " ~" H 9475 1025 50  0001 C CNN
+F 4 "SMA-J-P-H-ST-EM1 " H 0   0   50  0001 C CNN "Mfg"
 	1    9475 1025
 	1    0    0    -1  
 $EndComp
@@ -229,6 +231,7 @@ F 0 "J4" H 1630 3842 50  0000 C CNN
 F 1 "USB_B_Micro" H 1630 3751 50  0000 C CNN
 F 2 "Connector_USB:USB_Micro-B_Wuerth_629105150521" H 1725 3325 50  0001 C CNN
 F 3 "~" H 1725 3325 50  0001 C CNN
+F 4 "629105150521 " H 0   0   50  0001 C CNN "Mfg"
 	1    1575 3375
 	1    0    0    -1  
 $EndComp
@@ -343,6 +346,7 @@ F 0 "U4" H 5325 1817 50  0000 C CNN
 F 1 "S-1313C33" H 5325 1726 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23-5" H 5325 1800 50  0001 C CIN
 F 3 "http://www.ti.com/lit/ds/symlink/tlv702.pdf" H 5325 1525 50  0001 C CNN
+F 4 "S-1313C33-M5T1U3 " H 0   0   50  0001 C CNN "Mfg"
 	1    5325 1475
 	1    0    0    -1  
 $EndComp
@@ -354,6 +358,7 @@ F 0 "U3" H 4000 1825 50  0000 R CNN
 F 1 "TPS3839DBZ" H 4525 1200 50  0000 R CNN
 F 2 "Package_TO_SOT_SMD:SOT-23" H 4025 1475 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/sbvs193d/sbvs193d.pdf" H 4025 1475 50  0001 C CNN
+F 4 "TPS3839G33DBZR " H 0   0   50  0001 C CNN "Mfg"
 	1    4025 1475
 	1    0    0    -1  
 $EndComp
@@ -365,7 +370,7 @@ F 0 "J3" H 800 875 50  0000 C CNN
 F 1 "JST_PH" H 800 1225 50  0000 C CNN
 F 2 "Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal" H 800 1100 50  0001 C CNN
 F 3 "~" H 800 1100 50  0001 C CNN
-F 4 "S2B-PH-K-S(LF)" H 800 1100 50  0001 C CNN "Mfg"
+F 4 "S2B-PH-SM4-TB(LF)(SN) " H 800 1100 50  0001 C CNN "Mfg"
 	1    800  1100
 	-1   0    0    -1  
 $EndComp
@@ -377,6 +382,7 @@ F 0 "D1" V 4675 1300 50  0000 R CNN
 F 1 "MBR0120" V 4600 1525 50  0000 R CNN
 F 2 "Diode_SMD:D_SOD-123" H 4625 925 50  0001 C CNN
 F 3 "http://www.mccsemi.com/up_pdf/MBR0520~MBR0580(SOD123).pdf" H 4625 1100 50  0001 C CNN
+F 4 "MBR120VLSFT3G" H 0   0   50  0001 C CNN "Mfg"
 	1    4625 1100
 	0    -1   -1   0   
 $EndComp
@@ -385,9 +391,10 @@ L Battery_Management:MCP73831-2-OT U2
 U 1 1 5C5222FC
 P 2300 1300
 F 0 "U2" H 2025 1550 50  0000 C CNN
-F 1 "MCP73831-2-OT" H 2675 1550 50  0000 C CNN
+F 1 "MCP73831" H 2675 1550 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23-5" H 2350 1050 50  0001 L CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf" H 2150 1250 50  0001 C CNN
+F 4 "MCP73831T-2ATI/OT " H 0   0   50  0001 C CNN "Mfg"
 	1    2300 1300
 	1    0    0    -1  
 $EndComp
@@ -399,6 +406,7 @@ F 0 "R10" H 1406 4004 50  0000 R CNN
 F 1 "1M" H 1400 4100 50  0000 R CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 1405 4050 50  0001 C CNN
 F 3 "~" H 1475 4050 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    1475 4050
 	1    0    0    1   
 $EndComp
@@ -410,6 +418,7 @@ F 0 "C8" H 1061 4004 50  0000 R CNN
 F 1 "4.7nF" H 1061 4095 50  0000 R CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 1213 3900 50  0001 C CNN
 F 3 "~" H 1175 4050 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    1175 4050
 	1    0    0    1   
 $EndComp
@@ -478,6 +487,7 @@ F 0 "C6" H 2465 2896 50  0000 L CNN
 F 1 "10nF" H 2465 2805 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 2388 2700 50  0001 C CNN
 F 3 "~" H 2350 2850 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    2350 2850
 	1    0    0    -1  
 $EndComp
@@ -489,6 +499,7 @@ F 0 "F1" V 3300 2650 50  0000 C CNN
 F 1 "0.75A" V 3225 2650 50  0000 C CNN
 F 2 "Fuse:Fuse_0805_2012Metric" H 3125 2475 50  0001 L CNN
 F 3 "~" H 3075 2675 50  0001 C CNN
+F 4 "MF-PSMF075X-2" H 0   0   50  0001 C CNN "Mfg"
 	1    3075 2675
 	0    -1   -1   0   
 $EndComp
@@ -511,6 +522,7 @@ F 0 "C7" H 2965 2896 50  0000 L CNN
 F 1 "100nF" H 2965 2805 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 2888 2700 50  0001 C CNN
 F 3 "~" H 2850 2850 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    2850 2850
 	1    0    0    -1  
 $EndComp
@@ -569,6 +581,7 @@ F 0 "J5" H 1625 6000 50  0000 R CNN
 F 1 "Cortex_JTAG_SWD_10pin" H 2875 4875 50  0000 R CNN
 F 2 "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD" H 1950 4900 50  0001 L TNN
 F 3 "http://infocenter.arm.com/help/topic/com.arm.doc.faqs/attached/13634/cortex_debug_connectors.pdf" V 1550 4200 50  0001 C CNN
+F 4 "FTSH-105-01-F-DV-K " H 0   0   50  0001 C CNN "Mfg"
 	1    1900 5450
 	1    0    0    -1  
 $EndComp
@@ -611,9 +624,10 @@ L Device:LED_ALT D5
 U 1 1 5C57F173
 P 4625 3575
 F 0 "D5" V 4663 3457 50  0000 R CNN
-F 1 "LED0" V 4572 3457 50  0000 R CNN
+F 1 "LED0_RED" V 4572 3457 50  0000 R CNN
 F 2 "LED_SMD:LED_0603_1608Metric" H 4625 3575 50  0001 C CNN
 F 3 "~" H 4625 3575 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    4625 3575
 	0    -1   -1   0   
 $EndComp
@@ -625,6 +639,7 @@ F 0 "JP3" V 4579 3293 50  0000 L CNN
 F 1 "LED0-Cut" V 4670 3293 50  0000 L CNN
 F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 4625 3225 50  0001 C CNN
 F 3 "~" H 4625 3225 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    4625 3225
 	0    1    1    0   
 $EndComp
@@ -636,6 +651,7 @@ F 0 "R9" H 4556 3879 50  0000 R CNN
 F 1 "1K" H 4550 3800 50  0000 R CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4555 3925 50  0001 C CNN
 F 3 "~" H 4625 3925 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    4625 3925
 	-1   0    0    -1  
 $EndComp
@@ -740,6 +756,7 @@ F 0 "C3" H 4650 1550 50  0000 L CNN
 F 1 "10uF" H 4650 1450 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 4663 1500 50  0001 C CNN
 F 3 "~" H 4625 1650 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    4625 1650
 	1    0    0    -1  
 $EndComp
@@ -819,6 +836,7 @@ F 0 "C4" H 5915 1696 50  0000 L CNN
 F 1 "1uF" H 5915 1605 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 5838 1500 50  0001 C CNN
 F 3 "~" H 5800 1650 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    5800 1650
 	1    0    0    -1  
 $EndComp
@@ -830,6 +848,7 @@ F 0 "C5" H 6265 1696 50  0000 L CNN
 F 1 "10uF" H 6265 1605 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 6188 1500 50  0001 C CNN
 F 3 "~" H 6150 1650 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    6150 1650
 	1    0    0    -1  
 $EndComp
@@ -889,9 +908,10 @@ L Device:LED_ALT D4
 U 1 1 5C652C8A
 P 4325 3575
 F 0 "D4" V 4350 3750 50  0000 R CNN
-F 1 "LED_PWR" V 4250 3975 50  0000 R CNN
+F 1 "LED_PWR_BLUE" V 4250 3975 50  0000 R CNN
 F 2 "LED_SMD:LED_0603_1608Metric" H 4325 3575 50  0001 C CNN
 F 3 "~" H 4325 3575 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    4325 3575
 	0    -1   -1   0   
 $EndComp
@@ -903,6 +923,7 @@ F 0 "JP2" V 4279 3293 50  0000 L CNN
 F 1 "PWR_LED-Cut" V 4370 3293 50  0000 L CNN
 F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 4325 3225 50  0001 C CNN
 F 3 "~" H 4325 3225 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    4325 3225
 	0    -1   1    0   
 $EndComp
@@ -914,6 +935,7 @@ F 0 "R8" H 4256 3879 50  0000 R CNN
 F 1 "1K" H 4250 3800 50  0000 R CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4255 3925 50  0001 C CNN
 F 3 "~" H 4325 3925 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    4325 3925
 	1    0    0    -1  
 $EndComp
@@ -944,6 +966,7 @@ F 0 "D2" H 3325 1175 50  0000 R CNN
 F 1 "CH_ORANGE" H 3450 1250 50  0000 R CNN
 F 2 "LED_SMD:LED_0603_1608Metric" H 3275 1400 50  0001 C CNN
 F 3 "~" H 3275 1400 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    3275 1400
 	1    0    0    1   
 $EndComp
@@ -955,6 +978,7 @@ F 0 "D3" H 3350 1750 50  0000 R CNN
 F 1 "DN_GREEN" H 3525 1675 50  0000 R CNN
 F 2 "LED_SMD:LED_0603_1608Metric" H 3275 1575 50  0001 C CNN
 F 3 "~" H 3275 1575 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    3275 1575
 	-1   0    0    1   
 $EndComp
@@ -966,6 +990,7 @@ F 0 "C2" H 2761 1604 50  0000 R CNN
 F 1 "10uF" H 2761 1695 50  0000 R CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 2913 1500 50  0001 C CNN
 F 3 "~" H 2875 1650 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    2875 1650
 	1    0    0    1   
 $EndComp
@@ -999,6 +1024,7 @@ F 0 "R4" H 1756 1579 50  0000 R CNN
 F 1 "4K7" H 1775 1500 50  0000 R CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 1755 1625 50  0001 C CNN
 F 3 "~" H 1825 1625 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    1825 1625
 	-1   0    0    -1  
 $EndComp
@@ -1162,6 +1188,7 @@ F 0 "R5" V 4700 1475 50  0000 C CNN
 F 1 "100K" V 4825 1475 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" H 4750 1475 50  0001 C CNN
 F 3 "~" H 4750 1475 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    4750 1475
 	0    1    1    0   
 $EndComp
@@ -1190,6 +1217,7 @@ F 0 "L1" V 8335 1025 50  0000 C CNN
 F 1 "0R" V 8244 1025 50  0000 C CNN
 F 2 "Inductor_SMD:L_0402_1005Metric" H 8150 1025 50  0001 C CNN
 F 3 "~" H 8150 1025 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    8150 1025
 	0    -1   -1   0   
 $EndComp
@@ -1201,6 +1229,7 @@ F 0 "C1" H 8550 1175 50  0000 R CNN
 F 1 "DNM" H 8550 1075 50  0000 R CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 8325 1150 50  0001 C CNN
 F 3 "~" H 8325 1150 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    8325 1150
 	-1   0    0    -1  
 $EndComp
@@ -1229,6 +1258,7 @@ F 0 "R1" V 8554 1025 50  0000 C CNN
 F 1 "DNM" V 8645 1025 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" H 8750 1025 50  0001 C CNN
 F 3 "~" H 8750 1025 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    8750 1025
 	0    1    1    0   
 $EndComp
@@ -1240,6 +1270,7 @@ F 0 "R2" V 8854 1025 50  0000 C CNN
 F 1 "0R" V 8945 1025 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" H 9050 1025 50  0001 C CNN
 F 3 "~" H 9050 1025 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    9050 1025
 	0    1    1    0   
 $EndComp
@@ -1315,6 +1346,7 @@ F 0 "R11" H 6056 5529 50  0000 R CNN
 F 1 "1M" H 6050 5625 50  0000 R CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 6055 5575 50  0001 C CNN
 F 3 "~" H 6125 5575 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    6125 5575
 	-1   0    0    1   
 $EndComp
@@ -1326,6 +1358,7 @@ F 0 "R12" H 6056 5929 50  0000 R CNN
 F 1 "3M3" H 6050 6025 50  0000 R CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 6055 5975 50  0001 C CNN
 F 3 "~" H 6125 5975 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    6125 5975
 	-1   0    0    1   
 $EndComp
@@ -1337,6 +1370,7 @@ F 0 "C9" H 5711 5929 50  0000 R CNN
 F 1 "100nF" H 5711 6020 50  0000 R CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 5863 5825 50  0001 C CNN
 F 3 "~" H 5825 5975 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    5825 5975
 	1    0    0    1   
 $EndComp
@@ -1401,6 +1435,7 @@ F 0 "JP5" V 5629 5643 50  0000 L CNN
 F 1 "ADC-Cut" V 5725 5625 50  0000 L CNN
 F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 5675 5575 50  0001 C CNN
 F 3 "~" H 5675 5575 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    5675 5575
 	0    1    1    0   
 $EndComp
@@ -1434,6 +1469,7 @@ F 0 "J2" H 7925 1100 50  0000 C CNN
 F 1 "U.FL-R-SMT-1" H 8200 1000 50  0000 C CNN
 F 2 "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical" H 7800 1025 50  0001 C CNN
 F 3 " ~" H 7800 1025 50  0001 C CNN
+F 4 "U.FL-R-SMT-1(40) " H 0   0   50  0001 C CNN "Mfg"
 	1    7800 1025
 	-1   0    0    -1  
 $EndComp
@@ -1471,6 +1507,7 @@ F 0 "SW3" V 5846 3752 50  0000 R CNN
 F 1 "RESET" V 5755 3752 50  0000 R CNN
 F 2 "Button_Switch_SMD:SW_SPST_EVQP2" H 5800 4000 50  0001 C CNN
 F 3 "" H 5800 4000 50  0001 C CNN
+F 4 " EVQ-P2202M " H 0   0   50  0001 C CNN "Mfg"
 	1    5800 3800
 	0    -1   -1   0   
 $EndComp
@@ -1493,6 +1530,7 @@ F 0 "R7" H 5731 3354 50  0000 R CNN
 F 1 "100R" H 5750 3275 50  0000 R CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 5730 3400 50  0001 C CNN
 F 3 "~" H 5800 3400 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    5800 3400
 	-1   0    0    -1  
 $EndComp
@@ -1508,6 +1546,7 @@ F 0 "U5" H 2416 4046 50  0000 L CNN
 F 1 "NUP2114" H 2416 3955 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SOT-553" H 2375 4500 50  0001 C CNN
 F 3 "http://www.onsemi.ru.com/pub_link/Collateral/NUP2202W1-D.PDF" H 2255 4075 50  0001 C CNN
+F 4 "NUP2114UPXV5T1G " H 0   0   50  0001 C CNN "Mfg"
 	1    2175 4000
 	1    0    0    -1  
 $EndComp
@@ -1523,6 +1562,7 @@ F 0 "JP4" V 6079 5268 50  0000 L CNN
 F 1 "ADCV-Cut" V 6170 5268 50  0000 L CNN
 F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 6125 5200 50  0001 C CNN
 F 3 "~" H 6125 5200 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    6125 5200
 	0    -1   1    0   
 $EndComp
@@ -1550,6 +1590,7 @@ F 0 "U6" H 8975 4765 50  0000 C CNN
 F 1 "Feather-Generic" H 8975 4674 50  0000 C CNB
 F 2 "mcu_footprints:Feather-Generic" H 8525 4450 50  0001 C CNN
 F 3 "" H 8525 4450 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    8525 4450
 	1    0    0    -1  
 $EndComp
@@ -1585,6 +1626,7 @@ F 0 "R6" H 3425 1000 50  0000 R CNN
 F 1 "1K" H 3425 925 50  0000 R CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 3405 1050 50  0001 C CNN
 F 3 "~" H 3475 1050 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    3475 1050
 	-1   0    0    -1  
 $EndComp
@@ -1615,6 +1657,7 @@ F 0 "R3" H 3425 1725 50  0000 R CNN
 F 1 "1K" H 3425 1650 50  0000 R CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 3405 1725 50  0001 C CNN
 F 3 "~" H 3475 1725 50  0001 C CNN
+F 4 "-" H 0   0   50  0001 C CNN "Mfg"
 	1    3475 1725
 	-1   0    0    -1  
 $EndComp
