@@ -1,10 +1,8 @@
 # TinyLoRa Module & Breakout
-This repo contains all the necessary design and fabrication files for the TinyLora module and its breakout board (in Feather form-factor).
+This repo contains all the necessary design and fabrication files for the TinyLora module and its Adafruit Father stype breakout board. First prototype batch has been sold on [Tindie](https://www.tindie.com/products/16985/) and some more info can be found there.
 
-
-### v0.1 working prototype:
-![TLM01 Breakout v1 Render](TinyLoRa-Docs/03-oshparkPCBsoldered.jpg)
-
+### TinyLoRa Feather Breakout v1.1:
+![TinyLoRa Feather Breakout v1.1](TinyLoRa-Docs/tinyLoRa-v1.1.jpg)
 
 ## Specs:
 - [ATSAMR34J18](http://ww1.microchip.com/downloads/en/DeviceDoc/SAMR34-R35-Low-Power-LoRa-Sub-GHz-SiP-Data-Sheet-DS70005356B.pdf) LoRA System-in-Package (SiP) based RF module
@@ -16,14 +14,12 @@ This repo contains all the necessary design and fabrication files for the TinyLo
 - IO pins: 27
 - Module Dimenions: ~16.5x14x2 mm
 
-### v1 render:
-![TLM01 Breakout v1 Render](TinyLoRa-Feather-Breakout/TLM-breakout-v1/DesingOutputs/TLM01-breakout-03.png)
-![TLM01 v1 front](/TinyLoRa-RF-Module/TLM-v1/DesignOutputs/TLM-v1-render-front.png)
-![TLM01 v1 back](/TinyLoRa-RF-Module/TLM-v1/DesignOutputs/TLM-v1-render-back.png)
+### TinyLoRa RF Module v1.1:
+![TLM01 v1 front](TinyLoRa-Docs/tlm-1.1-front.jpg)
+![TLM01 v1 back](TinyLoRa-Docs/tlm-1.1-back.jpg)
 ![TLM01 v1 OSHpark PCB](TinyLoRa-Docs/02-oshparkPCB.jpg)
-![TLM01 v1 first prototypes](TinyLoRa--Docs/01-firstPrototyes.jpg)
-![TLM01 Breakout v1 Front](TinyLoRa-Feather-Breakout/TLM-breakout-v1/DesingOutputs/TLM01-breakout-01.png)
-![TLM01 Breakout v1 Back](TinyLoRa-Feather-Breakout/TLM-breakout-v1/DesingOutputs/TLM01-breakout-02.png)
+### TinyLoRa Feather Breakout v1.1 Blinky:
+![TLM01 v1 first prototypes](TinyLoRa-Docs/tinyLoRa-v1.1-running.jpg)
 
 
 <div align="center">
