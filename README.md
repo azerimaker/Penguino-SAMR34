@@ -17,13 +17,13 @@ This repo contains all the necessary design and fabrication files for the TinyLo
 - Module Dimenions: ~16.5x14x2 mm
 
 ### v1 render:
-![TLM01 Breakout v1 Render](TinyLoRa-Breakout/TLM-breakout-v1/DesingOutputs/TLM01-breakout-03.png)
-![TLM01 v1 front](/TinyLoRa-Module/TLM-v1/DesignOutputs/TLM-v1-render-front.png)
-![TLM01 v1 back](/TinyLoRa-Module/TLM-v1/DesignOutputs/TLM-v1-render-back.png)
+![TLM01 Breakout v1 Render](TinyLoRa-Feather-Breakout/TLM-breakout-v1/DesingOutputs/TLM01-breakout-03.png)
+![TLM01 v1 front](/TinyLoRa-RF-Module/TLM-v1/DesignOutputs/TLM-v1-render-front.png)
+![TLM01 v1 back](/TinyLoRa-RF-Module/TLM-v1/DesignOutputs/TLM-v1-render-back.png)
 ![TLM01 v1 OSHpark PCB](TinyLoRa-Docs/02-oshparkPCB.jpg)
 ![TLM01 v1 first prototypes](TinyLoRa--Docs/01-firstPrototyes.jpg)
-![TLM01 Breakout v1 Front](TinyLoRa-Breakout/TLM-breakout-v1/DesingOutputs/TLM01-breakout-01.png)
-![TLM01 Breakout v1 Back](TinyLoRa-Breakout/TLM-breakout-v1/DesingOutputs/TLM01-breakout-02.png)
+![TLM01 Breakout v1 Front](TinyLoRa-Feather-Breakout/TLM-breakout-v1/DesingOutputs/TLM01-breakout-01.png)
+![TLM01 Breakout v1 Back](TinyLoRa-Feather-Breakout/TLM-breakout-v1/DesingOutputs/TLM01-breakout-02.png)
 
 
 <div align="center">
