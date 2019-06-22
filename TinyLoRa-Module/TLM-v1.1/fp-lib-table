@@ -10,4 +10,5 @@
   (lib (name gkl_time)(type KiCad)(uri /Users/orkhan/Dropbox/FILE_EXCHANGE/PCB_Projects/KiCAD/mylib/lib-gregdavill/gkl/gkl_time.pretty)(options "")(descr ""))
   (lib (name gkl_ublox)(type KiCad)(uri /Users/orkhan/Dropbox/FILE_EXCHANGE/PCB_Projects/KiCAD/mylib/lib-gregdavill/gkl/gkl_ublox.pretty)(options "")(descr ""))
   (lib (name TLM-footprints)(type KiCad)(uri ${KIPRJMOD}/Footprints/TLM-footprints.pretty)(options "")(descr ""))
+  (lib (name Banana)(type KiCad)(uri /Users/orkhan/Dropbox/FILE_EXCHANGE/PCB_Projects/KiCAD/mylib/3d/kicad-banana/Banana.pretty)(options "")(descr ""))
 )
