@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name TLM-v1_2-rescue)(type Legacy)(uri ${KIPRJMOD}/TLM-v1_2-rescue.lib)(options "")(descr ""))
+)

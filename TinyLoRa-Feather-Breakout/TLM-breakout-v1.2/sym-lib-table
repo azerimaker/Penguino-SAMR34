@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name TLM-breakout-v1-rescue)(type Legacy)(uri ${KIPRJMOD}/TLM-breakout-v1-rescue.lib)(options "")(descr ""))
+  (lib (name TLM-breakout-v1_2-rescue)(type Legacy)(uri ${KIPRJMOD}/TLM-breakout-v1_2-rescue.lib)(options "")(descr ""))
+)
