@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP ATSAMR34J18BT
-D SAML21 32-bit ARM® Cortex® M0+, 256KB Flash, 40KB SRAM LoRa
-K SAML21, LoRa
-$ENDCMP
-#
-#End Doc Library
