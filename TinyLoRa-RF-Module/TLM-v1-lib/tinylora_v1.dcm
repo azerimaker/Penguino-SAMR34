@@ -11,6 +11,12 @@ K ESD Protection diodes  transient suppressor
 F http://www.onsemi.ru.com/pub_link/Collateral/NUP2202W1-D.PDF
 $ENDCMP
 #
+$CMP RGB_LED_FM-B2020RGBA
+D RGB LED, red/green/blue/anode
+K LED RGB diode
+F ~
+$ENDCMP
+#
 $CMP SKY13373-460LF
 D 0.1 to 6.0 GHz SP3T Switch
 K SP3T RF Switch
