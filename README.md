@@ -1,4 +1,4 @@
-# TinyLoRa Module & Breakout
+# TinyLoRa SAMR34 Module & Feather Breakout
 This repo contains all the necessary design and fabrication files for the TinyLora module and its Adafruit Father style breakout board. First prototype batch has been sold on [Tindie](https://www.tindie.com/products/16985/) and some more info can be found there.
 
 ### TinyLoRa Feather Breakout v1.1:
