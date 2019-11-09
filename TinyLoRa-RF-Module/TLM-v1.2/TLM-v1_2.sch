@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:TLM-v1_2-cache
-EELAYER 29 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -2051,17 +2051,6 @@ Wire Notes Line
 	8075 5700 8075 6250
 Text GLabel 9825 5900 2    59   Input ~ 12
 TCXO_PWR
-$Comp
-L Jumper:SolderJumper_3_Bridged12 JP1
-U 1 1 5C80C37F
-P 9825 5575
-F 0 "JP1" V 9871 5643 50  0000 L CNN
-F 1 "RFSW_VCC_SLCT" V 9780 5643 50  0000 L CNN
-F 2 "Pads_Jumpers:JP_NO_NC" H 9825 5575 50  0001 C CNN
-F 3 "~" H 9825 5575 50  0001 C CNN
-	1    9825 5575
-	0    1    -1   0   
-$EndComp
 Wire Wire Line
 	9025 5575 9400 5575
 Wire Wire Line
@@ -2101,14 +2090,15 @@ Wire Wire Line
 	9250 4075 9075 4075
 Text GLabel 8700 5475 0    59   Input ~ 12
 TXRX_RF
-Text Notes 9850 6225 0    59   ~ 12
-TCXO Default VCC \nfor the RF Switch
-Wire Notes Line
-	9575 6300 10925 6300
-Wire Notes Line
-	10925 6300 10925 5975
-Wire Notes Line
-	10925 5975 9575 5975
-Wire Notes Line
-	9575 5975 9575 6300
+$Comp
+L Jumper:SolderJumper_3_Bridged12 JP1
+U 1 1 5C80C37F
+P 9825 5575
+F 0 "JP1" V 9871 5643 50  0000 L CNN
+F 1 "RFSW_VCC_SLCT" V 9780 5643 50  0000 L CNN
+F 2 "Pads_Jumpers:JP_NO_NC" H 9825 5575 50  0001 C CNN
+F 3 "~" H 9825 5575 50  0001 C CNN
+	1    9825 5575
+	0    1    -1   0   
+$EndComp
 $EndSCHEMATC
