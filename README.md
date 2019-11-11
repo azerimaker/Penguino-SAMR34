@@ -4,7 +4,7 @@ This repo contains all the necessary design and fabrication files for the TinyLo
 ### TinyLoRa Feather Breakout v1.1:
 ![TinyLoRa Feather Breakout v1.1](TinyLoRa-Docs/tinyLoRa-v1.1.JPG)
 
-## Specs:
+## TinyLoRa RF Module v1.2 Specs:
 - [ATSAMR34J18](http://ww1.microchip.com/downloads/en/DeviceDoc/SAMR34-R35-Low-Power-LoRa-Sub-GHz-SiP-Data-Sheet-DS70005356B.pdf) LoRA System-in-Package (SiP) based RF module
 - ARM Cortex M0+ MCU & LoRa Radio
 - 256KB Flash, 40 KB RAM
