@@ -10,7 +10,7 @@ This repo contains all the necessary design and fabrication files for the TinyLo
 - 256KB Flash, 40 KB RAM
 - Power Output: 20.00(dBm) (DS value, real output is not tested)
 - Frequency Range: 862 to 1020 MHz (DS values)
-- Sleep Current: 790 nA (DS value for the SiP, module will be thoroughly tested soon)
+- Sleep Current: ~810 nA 
 - IO pins: 27
 - Module Dimenions: ~16.5x14x2 mm
 
