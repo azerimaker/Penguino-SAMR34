@@ -1,4 +1,4 @@
-16587981323872389
+16526889110770428
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -6272,6 +6272,13 @@ jack stereo TRS
 5
 5
 Connector_Audio
+Jack_3.5mm_Neutric_NMJ6HCD2_Horizontal
+NMJ6HCD2, TRS 1/4\\\\\\\\ (http://www.neutrik.com/zoolu-website/media/download/2890/Drawing+NMJ6HCD2)
+NMJ6HCD2 TRS stereo jack connector
+0
+6
+6
+Connector_Audio
 Jack_3.5mm_Neutrik_NMJ6HCD2_Horizontal
 NMJ6HCD2, TRS 1/4in (http://www.neutrik.com/en/audio/plugs-and-jacks/m-series/nmj6hcd2)
 NMJ6HCD2 TRS stereo jack connector
@@ -6314,9 +6321,23 @@ WQP-PJ398SM WQP-PJ301M-12 TRS 3.5mm mono vertical jack thonkiconn qingpu
 3
 3
 Connector_Audio
+Jack_Horizontal
+module 1 pin (ou trou mecanique de percage)
+CONN JACK
+0
+3
+3
+Connector_Audio
 MiniXLR-5_Switchcraft_TRAPC_Horizontal
 http://www.switchcraft.com/ProductSummary.aspx?Parent=620 http://www.switchcraft.com/Drawings/TRAPC_X-TRASM_X_SERIES_CD.PDF
 THT Mini XLR 5Pin right angle
+0
+5
+5
+Connector_Audio
+StereoJack_3.5mm_Switch_Ledino_KB3SPRS_Horizontal
+https://www.reichelt.de/index.html?ACTION=7&LA=3&OPEN=0&INDEX=0&FILENAME=C160%252FKB3SPRS.pdf
+jack stereo TRS
 0
 5
 5
@@ -10584,13 +10605,6 @@ connector JST EH side entry
 2
 2
 Connector_JST
-JST_EH_B03B-EH-A_1x03_P2.50mm_Vertical
-JST EH series connector, B03B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH side entry
-0
-3
-3
-Connector_JST
 JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical
 JST EH series connector, B3B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
 connector JST EH vertical
@@ -10598,16 +10612,23 @@ connector JST EH vertical
 3
 3
 Connector_JST
-JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical
-JST EH series connector, B4B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH vertical
+JST_EH_B03B-EH-A_1x03_P2.50mm_Vertical
+JST EH series connector, B03B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH side entry
 0
-4
-4
+3
+3
 Connector_JST
 JST_EH_B04B-EH-A_1x04_P2.50mm_Vertical
 JST EH series connector, B04B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
 connector JST EH side entry
+0
+4
+4
+Connector_JST
+JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical
+JST EH series connector, B4B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH vertical
 0
 4
 4
@@ -10640,16 +10661,16 @@ connector JST EH side entry
 6
 6
 Connector_JST
-JST_EH_B07B-EH-A_1x07_P2.50mm_Vertical
-JST EH series connector, B07B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH side entry
+JST_EH_B7B-EH-A_1x07_P2.50mm_Vertical
+JST EH series connector, B7B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH vertical
 0
 7
 7
 Connector_JST
-JST_EH_B7B-EH-A_1x07_P2.50mm_Vertical
-JST EH series connector, B7B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH vertical
+JST_EH_B07B-EH-A_1x07_P2.50mm_Vertical
+JST EH series connector, B07B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH side entry
 0
 7
 7
@@ -10668,16 +10689,16 @@ connector JST EH side entry
 8
 8
 Connector_JST
-JST_EH_B9B-EH-A_1x09_P2.50mm_Vertical
-JST EH series connector, B9B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH vertical
+JST_EH_B09B-EH-A_1x09_P2.50mm_Vertical
+JST EH series connector, B09B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH side entry
 0
 9
 9
 Connector_JST
-JST_EH_B09B-EH-A_1x09_P2.50mm_Vertical
-JST EH series connector, B09B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH side entry
+JST_EH_B9B-EH-A_1x09_P2.50mm_Vertical
+JST EH series connector, B9B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH vertical
 0
 9
 9
@@ -10745,13 +10766,6 @@ connector JST EH top entry
 2
 2
 Connector_JST
-JST_EH_S3B-EH_1x03_P2.50mm_Horizontal
-JST EH series connector, S3B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH horizontal
-0
-3
-3
-Connector_JST
 JST_EH_S03B-EH_1x03_P2.50mm_Horizontal
 JST EH series connector, S03B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
 connector JST EH top entry
@@ -10759,12 +10773,12 @@ connector JST EH top entry
 3
 3
 Connector_JST
-JST_EH_S4B-EH_1x04_P2.50mm_Horizontal
-JST EH series connector, S4B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+JST_EH_S3B-EH_1x03_P2.50mm_Horizontal
+JST EH series connector, S3B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
 connector JST EH horizontal
 0
-4
-4
+3
+3
 Connector_JST
 JST_EH_S04B-EH_1x04_P2.50mm_Horizontal
 JST EH series connector, S04B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
@@ -10773,12 +10787,12 @@ connector JST EH top entry
 4
 4
 Connector_JST
-JST_EH_S5B-EH_1x05_P2.50mm_Horizontal
-JST EH series connector, S5B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+JST_EH_S4B-EH_1x04_P2.50mm_Horizontal
+JST EH series connector, S4B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
 connector JST EH horizontal
 0
-5
-5
+4
+4
 Connector_JST
 JST_EH_S05B-EH_1x05_P2.50mm_Horizontal
 JST EH series connector, S05B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
@@ -10787,12 +10801,12 @@ connector JST EH top entry
 5
 5
 Connector_JST
-JST_EH_S6B-EH_1x06_P2.50mm_Horizontal
-JST EH series connector, S6B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+JST_EH_S5B-EH_1x05_P2.50mm_Horizontal
+JST EH series connector, S5B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
 connector JST EH horizontal
 0
-6
-6
+5
+5
 Connector_JST
 JST_EH_S06B-EH_1x06_P2.50mm_Horizontal
 JST EH series connector, S06B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
@@ -10801,12 +10815,12 @@ connector JST EH top entry
 6
 6
 Connector_JST
-JST_EH_S7B-EH_1x07_P2.50mm_Horizontal
-JST EH series connector, S7B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+JST_EH_S6B-EH_1x06_P2.50mm_Horizontal
+JST EH series connector, S6B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
 connector JST EH horizontal
 0
-7
-7
+6
+6
 Connector_JST
 JST_EH_S07B-EH_1x07_P2.50mm_Horizontal
 JST EH series connector, S07B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
@@ -10815,12 +10829,12 @@ connector JST EH top entry
 7
 7
 Connector_JST
-JST_EH_S8B-EH_1x08_P2.50mm_Horizontal
-JST EH series connector, S8B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+JST_EH_S7B-EH_1x07_P2.50mm_Horizontal
+JST EH series connector, S7B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
 connector JST EH horizontal
 0
-8
-8
+7
+7
 Connector_JST
 JST_EH_S08B-EH_1x08_P2.50mm_Horizontal
 JST EH series connector, S08B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
@@ -10829,16 +10843,23 @@ connector JST EH top entry
 8
 8
 Connector_JST
-JST_EH_S9B-EH_1x09_P2.50mm_Horizontal
-JST EH series connector, S9B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+JST_EH_S8B-EH_1x08_P2.50mm_Horizontal
+JST EH series connector, S8B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
 connector JST EH horizontal
 0
-9
-9
+8
+8
 Connector_JST
 JST_EH_S09B-EH_1x09_P2.50mm_Horizontal
 JST EH series connector, S09B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
 connector JST EH top entry
+0
+9
+9
+Connector_JST
+JST_EH_S9B-EH_1x09_P2.50mm_Horizontal
+JST EH series connector, S9B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH horizontal
 0
 9
 9
@@ -12978,16 +12999,16 @@ connector JST XAG top entry
 7
 6
 Connector_JST
-JST_XH_B1B-XH-AM_1x01_P2.50mm_Vertical
-JST XH series connector, B1B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH vertical boss
+JST_XH_B01B-XH-AM_1x01_P2.50mm_Vertical
+JST XH series connector, B01B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH side entry boss
 0
 1
 1
 Connector_JST
-JST_XH_B01B-XH-AM_1x01_P2.50mm_Vertical
-JST XH series connector, B01B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH side entry boss
+JST_XH_B1B-XH-AM_1x01_P2.50mm_Vertical
+JST XH series connector, B1B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH vertical boss
 0
 1
 1
@@ -13006,16 +13027,16 @@ connector JST XH side entry boss
 2
 2
 Connector_JST
-JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical
-JST XH series connector, B2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH vertical
+JST_XH_B02B-XH-A_1x02_P2.50mm_Vertical
+JST XH series connector, B02B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH side entry
 0
 2
 2
 Connector_JST
-JST_XH_B02B-XH-A_1x02_P2.50mm_Vertical
-JST XH series connector, B02B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH side entry
+JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical
+JST XH series connector, B2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH vertical
 0
 2
 2
@@ -13048,16 +13069,16 @@ connector JST XH vertical
 3
 3
 Connector_JST
-JST_XH_B4B-XH-AM_1x04_P2.50mm_Vertical
-JST XH series connector, B4B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH vertical boss
+JST_XH_B04B-XH-AM_1x04_P2.50mm_Vertical
+JST XH series connector, B04B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH side entry boss
 0
 4
 4
 Connector_JST
-JST_XH_B04B-XH-AM_1x04_P2.50mm_Vertical
-JST XH series connector, B04B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH side entry boss
+JST_XH_B4B-XH-AM_1x04_P2.50mm_Vertical
+JST XH series connector, B4B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH vertical boss
 0
 4
 4
@@ -13090,16 +13111,16 @@ connector JST XH vertical boss
 5
 5
 Connector_JST
-JST_XH_B05B-XH-A_1x05_P2.50mm_Vertical
-JST XH series connector, B05B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH side entry
+JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical
+JST XH series connector, B5B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH vertical
 0
 5
 5
 Connector_JST
-JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical
-JST XH series connector, B5B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH vertical
+JST_XH_B05B-XH-A_1x05_P2.50mm_Vertical
+JST XH series connector, B05B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH side entry
 0
 5
 5
@@ -13174,13 +13195,6 @@ connector JST XH side entry boss
 8
 8
 Connector_JST
-JST_XH_B08B-XH-A_1x08_P2.50mm_Vertical
-JST XH series connector, B08B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH side entry
-0
-8
-8
-Connector_JST
 JST_XH_B8B-XH-A_1x08_P2.50mm_Vertical
 JST XH series connector, B8B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH vertical
@@ -13188,16 +13202,23 @@ connector JST XH vertical
 8
 8
 Connector_JST
-JST_XH_B09B-XH-AM_1x09_P2.50mm_Vertical
-JST XH series connector, B09B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH side entry boss
+JST_XH_B08B-XH-A_1x08_P2.50mm_Vertical
+JST XH series connector, B08B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH side entry
 0
-9
-9
+8
+8
 Connector_JST
 JST_XH_B9B-XH-AM_1x09_P2.50mm_Vertical
 JST XH series connector, B9B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH vertical boss
+0
+9
+9
+Connector_JST
+JST_XH_B09B-XH-AM_1x09_P2.50mm_Vertical
+JST XH series connector, B09B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH side entry boss
 0
 9
 9
@@ -13307,16 +13328,16 @@ connector JST XH top entry
 2
 2
 Connector_JST
-JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal
-JST XH series connector, S2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH horizontal
+JST_XH_S02B-XH-A_1x02_P2.50mm_Horizontal
+JST XH series connector, S02B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH top entry
 0
 2
 2
 Connector_JST
-JST_XH_S02B-XH-A_1x02_P2.50mm_Horizontal
-JST XH series connector, S02B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH top entry
+JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal
+JST XH series connector, S2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH horizontal
 0
 2
 2
@@ -13335,13 +13356,6 @@ connector JST XH top entry
 3
 3
 Connector_JST
-JST_XH_S3B-XH-A_1x03_P2.50mm_Horizontal
-JST XH series connector, S3B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH horizontal
-0
-3
-3
-Connector_JST
 JST_XH_S03B-XH-A_1x03_P2.50mm_Horizontal
 JST XH series connector, S03B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH top entry
@@ -13349,16 +13363,23 @@ connector JST XH top entry
 3
 3
 Connector_JST
-JST_XH_S4B-XH-A-1_1x04_P2.50mm_Horizontal
-JST XH series connector, S4B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+JST_XH_S3B-XH-A_1x03_P2.50mm_Horizontal
+JST XH series connector, S3B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH horizontal
 0
-4
-4
+3
+3
 Connector_JST
 JST_XH_S04B-XH-A-1_1x04_P2.50mm_Horizontal
 JST XH series connector, S04B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH top entry
+0
+4
+4
+Connector_JST
+JST_XH_S4B-XH-A-1_1x04_P2.50mm_Horizontal
+JST XH series connector, S4B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH horizontal
 0
 4
 4
@@ -13377,16 +13398,16 @@ connector JST XH top entry
 4
 4
 Connector_JST
-JST_XH_S05B-XH-A-1_1x05_P2.50mm_Horizontal
-JST XH series connector, S05B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH top entry
+JST_XH_S5B-XH-A-1_1x05_P2.50mm_Horizontal
+JST XH series connector, S5B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH horizontal
 0
 5
 5
 Connector_JST
-JST_XH_S5B-XH-A-1_1x05_P2.50mm_Horizontal
-JST XH series connector, S5B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH horizontal
+JST_XH_S05B-XH-A-1_1x05_P2.50mm_Horizontal
+JST XH series connector, S05B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH top entry
 0
 5
 5
@@ -13405,13 +13426,6 @@ connector JST XH top entry
 5
 5
 Connector_JST
-JST_XH_S6B-XH-A-1_1x06_P2.50mm_Horizontal
-JST XH series connector, S6B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH horizontal
-0
-6
-6
-Connector_JST
 JST_XH_S06B-XH-A-1_1x06_P2.50mm_Horizontal
 JST XH series connector, S06B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH top entry
@@ -13419,8 +13433,8 @@ connector JST XH top entry
 6
 6
 Connector_JST
-JST_XH_S6B-XH-A_1x06_P2.50mm_Horizontal
-JST XH series connector, S6B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+JST_XH_S6B-XH-A-1_1x06_P2.50mm_Horizontal
+JST XH series connector, S6B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH horizontal
 0
 6
@@ -13429,6 +13443,13 @@ Connector_JST
 JST_XH_S06B-XH-A_1x06_P2.50mm_Horizontal
 JST XH series connector, S06B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH top entry
+0
+6
+6
+Connector_JST
+JST_XH_S6B-XH-A_1x06_P2.50mm_Horizontal
+JST XH series connector, S6B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH horizontal
 0
 6
 6
@@ -13475,13 +13496,6 @@ connector JST XH top entry
 8
 8
 Connector_JST
-JST_XH_S08B-XH-A_1x08_P2.50mm_Horizontal
-JST XH series connector, S08B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH top entry
-0
-8
-8
-Connector_JST
 JST_XH_S8B-XH-A_1x08_P2.50mm_Horizontal
 JST XH series connector, S8B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH horizontal
@@ -13489,12 +13503,12 @@ connector JST XH horizontal
 8
 8
 Connector_JST
-JST_XH_S09B-XH-A-1_1x09_P2.50mm_Horizontal
-JST XH series connector, S09B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+JST_XH_S08B-XH-A_1x08_P2.50mm_Horizontal
+JST XH series connector, S08B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH top entry
 0
-9
-9
+8
+8
 Connector_JST
 JST_XH_S9B-XH-A-1_1x09_P2.50mm_Horizontal
 JST XH series connector, S9B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
@@ -13503,8 +13517,8 @@ connector JST XH horizontal
 9
 9
 Connector_JST
-JST_XH_S09B-XH-A_1x09_P2.50mm_Horizontal
-JST XH series connector, S09B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+JST_XH_S09B-XH-A-1_1x09_P2.50mm_Horizontal
+JST XH series connector, S09B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH top entry
 0
 9
@@ -13513,6 +13527,13 @@ Connector_JST
 JST_XH_S9B-XH-A_1x09_P2.50mm_Horizontal
 JST XH series connector, S9B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH horizontal
+0
+9
+9
+Connector_JST
+JST_XH_S09B-XH-A_1x09_P2.50mm_Horizontal
+JST XH series connector, S09B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH top entry
 0
 9
 9
@@ -17213,6 +17234,13 @@ connector Molex PicoBlade side entry
 3
 3
 Connector_Molex
+Molex_PicoBlade_53047-0410_1x02_P1.25mm_Vertical
+Molex PicoBlade Connector System, 53047-0410, 2 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+2
+2
+Connector_Molex
 Molex_PicoBlade_53047-0410_1x04_P1.25mm_Vertical
 Molex PicoBlade Connector System, 53047-0410, 4 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
 connector Molex PicoBlade side entry
@@ -17226,6 +17254,13 @@ connector Molex PicoBlade side entry
 0
 5
 5
+Connector_Molex
+Molex_PicoBlade_53047-0610_1x03_P1.25mm_Vertical
+Molex PicoBlade Connector System, 53047-0610, 3 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+3
+3
 Connector_Molex
 Molex_PicoBlade_53047-0610_1x06_P1.25mm_Vertical
 Molex PicoBlade Connector System, 53047-0610, 6 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
@@ -17241,6 +17276,13 @@ connector Molex PicoBlade side entry
 7
 7
 Connector_Molex
+Molex_PicoBlade_53047-0810_1x04_P1.25mm_Vertical
+Molex PicoBlade Connector System, 53047-0810, 4 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+4
+4
+Connector_Molex
 Molex_PicoBlade_53047-0810_1x08_P1.25mm_Vertical
 Molex PicoBlade Connector System, 53047-0810, 8 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
 connector Molex PicoBlade side entry
@@ -17254,6 +17296,13 @@ connector Molex PicoBlade side entry
 0
 9
 9
+Connector_Molex
+Molex_PicoBlade_53047-1010_1x05_P1.25mm_Vertical
+Molex PicoBlade Connector System, 53047-1010, 5 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+5
+5
 Connector_Molex
 Molex_PicoBlade_53047-1010_1x10_P1.25mm_Vertical
 Molex PicoBlade Connector System, 53047-1010, 10 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
@@ -17269,6 +17318,13 @@ connector Molex PicoBlade side entry
 11
 11
 Connector_Molex
+Molex_PicoBlade_53047-1210_1x06_P1.25mm_Vertical
+Molex PicoBlade Connector System, 53047-1210, 6 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+6
+6
+Connector_Molex
 Molex_PicoBlade_53047-1210_1x12_P1.25mm_Vertical
 Molex PicoBlade Connector System, 53047-1210, 12 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
 connector Molex PicoBlade side entry
@@ -17283,6 +17339,13 @@ connector Molex PicoBlade side entry
 13
 13
 Connector_Molex
+Molex_PicoBlade_53047-1410_1x07_P1.25mm_Vertical
+Molex PicoBlade Connector System, 53047-1410, 7 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+7
+7
+Connector_Molex
 Molex_PicoBlade_53047-1410_1x14_P1.25mm_Vertical
 Molex PicoBlade Connector System, 53047-1410, 14 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
 connector Molex PicoBlade side entry
@@ -17292,6 +17355,62 @@ connector Molex PicoBlade side entry
 Connector_Molex
 Molex_PicoBlade_53047-1510_1x15_P1.25mm_Vertical
 Molex PicoBlade Connector System, 53047-1510, 15 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+15
+15
+Connector_Molex
+Molex_PicoBlade_53047-1610_1x08_P1.25mm_Vertical
+Molex PicoBlade Connector System, 53047-1610, 8 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+8
+8
+Connector_Molex
+Molex_PicoBlade_53047-1810_1x09_P1.25mm_Vertical
+Molex PicoBlade Connector System, 53047-1810, 9 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+9
+9
+Connector_Molex
+Molex_PicoBlade_53047-2010_1x10_P1.25mm_Vertical
+Molex PicoBlade Connector System, 53047-2010, 10 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+10
+10
+Connector_Molex
+Molex_PicoBlade_53047-2210_1x11_P1.25mm_Vertical
+Molex PicoBlade Connector System, 53047-2210, 11 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+11
+11
+Connector_Molex
+Molex_PicoBlade_53047-2410_1x12_P1.25mm_Vertical
+Molex PicoBlade Connector System, 53047-2410, 12 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+12
+12
+Connector_Molex
+Molex_PicoBlade_53047-2610_1x13_P1.25mm_Vertical
+Molex PicoBlade Connector System, 53047-2610, 13 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+13
+13
+Connector_Molex
+Molex_PicoBlade_53047-2810_1x14_P1.25mm_Vertical
+Molex PicoBlade Connector System, 53047-2810, 14 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+14
+14
+Connector_Molex
+Molex_PicoBlade_53047-3010_1x15_P1.25mm_Vertical
+Molex PicoBlade Connector System, 53047-3010, 15 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
 connector Molex PicoBlade side entry
 0
 15
@@ -17311,6 +17430,13 @@ connector Molex PicoBlade top entry
 3
 3
 Connector_Molex
+Molex_PicoBlade_53048-0410_1x02_P1.25mm_Horizontal
+Molex PicoBlade Connector System, 53048-0410, 2 Pins per row (http://www.molex.com/pdm_docs/sd/532530770_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+2
+2
+Connector_Molex
 Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal
 Molex PicoBlade Connector System, 53048-0410, 4 Pins per row (http://www.molex.com/pdm_docs/sd/530480210_sd.pdf), generated with kicad-footprint-generator
 connector Molex PicoBlade top entry
@@ -17324,6 +17450,13 @@ connector Molex PicoBlade top entry
 0
 5
 5
+Connector_Molex
+Molex_PicoBlade_53048-0610_1x03_P1.25mm_Horizontal
+Molex PicoBlade Connector System, 53048-0610, 3 Pins per row (http://www.molex.com/pdm_docs/sd/532530770_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+3
+3
 Connector_Molex
 Molex_PicoBlade_53048-0610_1x06_P1.25mm_Horizontal
 Molex PicoBlade Connector System, 53048-0610, 6 Pins per row (http://www.molex.com/pdm_docs/sd/530480210_sd.pdf), generated with kicad-footprint-generator
@@ -17339,6 +17472,13 @@ connector Molex PicoBlade top entry
 7
 7
 Connector_Molex
+Molex_PicoBlade_53048-0810_1x04_P1.25mm_Horizontal
+Molex PicoBlade Connector System, 53048-0810, 4 Pins per row (http://www.molex.com/pdm_docs/sd/532530770_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+4
+4
+Connector_Molex
 Molex_PicoBlade_53048-0810_1x08_P1.25mm_Horizontal
 Molex PicoBlade Connector System, 53048-0810, 8 Pins per row (http://www.molex.com/pdm_docs/sd/530480210_sd.pdf), generated with kicad-footprint-generator
 connector Molex PicoBlade top entry
@@ -17352,6 +17492,13 @@ connector Molex PicoBlade top entry
 0
 9
 9
+Connector_Molex
+Molex_PicoBlade_53048-1010_1x05_P1.25mm_Horizontal
+Molex PicoBlade Connector System, 53048-1010, 5 Pins per row (http://www.molex.com/pdm_docs/sd/532530770_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+5
+5
 Connector_Molex
 Molex_PicoBlade_53048-1010_1x10_P1.25mm_Horizontal
 Molex PicoBlade Connector System, 53048-1010, 10 Pins per row (http://www.molex.com/pdm_docs/sd/530480210_sd.pdf), generated with kicad-footprint-generator
@@ -17367,6 +17514,13 @@ connector Molex PicoBlade top entry
 11
 11
 Connector_Molex
+Molex_PicoBlade_53048-1210_1x06_P1.25mm_Horizontal
+Molex PicoBlade Connector System, 53048-1210, 6 Pins per row (http://www.molex.com/pdm_docs/sd/532530770_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+6
+6
+Connector_Molex
 Molex_PicoBlade_53048-1210_1x12_P1.25mm_Horizontal
 Molex PicoBlade Connector System, 53048-1210, 12 Pins per row (http://www.molex.com/pdm_docs/sd/530480210_sd.pdf), generated with kicad-footprint-generator
 connector Molex PicoBlade top entry
@@ -17381,6 +17535,13 @@ connector Molex PicoBlade top entry
 13
 13
 Connector_Molex
+Molex_PicoBlade_53048-1410_1x07_P1.25mm_Horizontal
+Molex PicoBlade Connector System, 53048-1410, 7 Pins per row (http://www.molex.com/pdm_docs/sd/532530770_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+7
+7
+Connector_Molex
 Molex_PicoBlade_53048-1410_1x14_P1.25mm_Horizontal
 Molex PicoBlade Connector System, 53048-1410, 14 Pins per row (http://www.molex.com/pdm_docs/sd/530480210_sd.pdf), generated with kicad-footprint-generator
 connector Molex PicoBlade top entry
@@ -17390,6 +17551,62 @@ connector Molex PicoBlade top entry
 Connector_Molex
 Molex_PicoBlade_53048-1510_1x15_P1.25mm_Horizontal
 Molex PicoBlade Connector System, 53048-1510, 15 Pins per row (http://www.molex.com/pdm_docs/sd/530480210_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+15
+15
+Connector_Molex
+Molex_PicoBlade_53048-1610_1x08_P1.25mm_Horizontal
+Molex PicoBlade Connector System, 53048-1610, 8 Pins per row (http://www.molex.com/pdm_docs/sd/532530770_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+8
+8
+Connector_Molex
+Molex_PicoBlade_53048-1810_1x09_P1.25mm_Horizontal
+Molex PicoBlade Connector System, 53048-1810, 9 Pins per row (http://www.molex.com/pdm_docs/sd/532530770_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+9
+9
+Connector_Molex
+Molex_PicoBlade_53048-2010_1x10_P1.25mm_Horizontal
+Molex PicoBlade Connector System, 53048-2010, 10 Pins per row (http://www.molex.com/pdm_docs/sd/532530770_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+10
+10
+Connector_Molex
+Molex_PicoBlade_53048-2210_1x11_P1.25mm_Horizontal
+Molex PicoBlade Connector System, 53048-2210, 11 Pins per row (http://www.molex.com/pdm_docs/sd/532530770_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+11
+11
+Connector_Molex
+Molex_PicoBlade_53048-2410_1x12_P1.25mm_Horizontal
+Molex PicoBlade Connector System, 53048-2410, 12 Pins per row (http://www.molex.com/pdm_docs/sd/532530770_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+12
+12
+Connector_Molex
+Molex_PicoBlade_53048-2610_1x13_P1.25mm_Horizontal
+Molex PicoBlade Connector System, 53048-2610, 13 Pins per row (http://www.molex.com/pdm_docs/sd/532530770_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+13
+13
+Connector_Molex
+Molex_PicoBlade_53048-2810_1x14_P1.25mm_Horizontal
+Molex PicoBlade Connector System, 53048-2810, 14 Pins per row (http://www.molex.com/pdm_docs/sd/532530770_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+14
+14
+Connector_Molex
+Molex_PicoBlade_53048-3010_1x15_P1.25mm_Horizontal
+Molex PicoBlade Connector System, 53048-3010, 15 Pins per row (http://www.molex.com/pdm_docs/sd/532530770_sd.pdf), generated with kicad-footprint-generator
 connector Molex PicoBlade top entry
 0
 15
@@ -43427,195 +43644,6 @@ THT ceramic resonator filter DSS6
 0
 3
 3
-Custom_Logos
-Lora-3
-
-
-0
-0
-0
-Custom_Logos
-Lora-4
-
-
-0
-0
-0
-Custom_Logos
-Makertronika
-
-
-0
-0
-0
-Custom_Logos
-Makertronika-SC-1
-
-
-0
-0
-0
-Custom_Logos
-Makertronika-SC-2
-
-
-0
-0
-0
-Custom_Logos
-Makertronika-SC-3
-
-
-0
-0
-0
-Custom_Logos
-Makertronika2
-
-
-0
-0
-0
-Custom_Logos
-Makertronika3
-
-
-0
-0
-0
-Custom_Logos
-Makertronika4
-
-
-0
-0
-0
-Custom_Logos
-designed-by-qr
-
-
-0
-0
-0
-Custom_Logos
-enoba-bw-neg
-
-
-0
-0
-0
-Custom_Logos
-enoba-bw-norm
-
-
-0
-0
-0
-Custom_Logos
-enoba-gs-neg
-
-
-0
-0
-0
-Custom_Logos
-enoba-gs-norm
-
-
-0
-0
-0
-Custom_Logos
-enoba-orig
-
-
-0
-0
-0
-Custom_Logos
-enosense
-
-
-0
-0
-0
-Custom_Logos
-enosense-neg2
-
-
-0
-0
-0
-Custom_Logos
-humbleBee-neg
-
-
-0
-0
-0
-Custom_Logos
-humbleBee-neg2
-
-
-0
-0
-0
-Custom_Logos
-humbleBee-norm
-
-
-0
-0
-0
-Custom_Logos
-lora-2
-
-
-0
-0
-0
-Custom_Logos
-lora-logo-1
-
-
-0
-0
-0
-Custom_Logos
-mikroBUS_Small
-
-
-0
-0
-0
-Custom_Logos
-mikrobus_big
-
-
-0
-0
-0
-Custom_Logos
-ttn_logo-1
-
-
-0
-0
-0
-Custom_Logos
-ttn_logo-2
-
-
-0
-0
-0
-Custom_Logos
-ttn_logo-3
-
-
-0
-0
-0
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -45466,11 +45494,11 @@ single digit 7 segemnt red/green LED
 10
 Fiducial
 Fiducial_0.5mm_Dia_1mm_Outer
-Circular Fiducial, 0.5mm bare copper top, 1mm keepout (Level C)
-fiducial
+Circular Fiducial, 0.5mm bare copper top; 1mm keepout (Level C)
+marker
 0
 1
-0
+1
 Fiducial
 Fiducial_0.5mm_Mask1.5mm
 Circular Fiducial, 0.5mm bare copper, 1.5mm soldermask opening
@@ -45487,11 +45515,11 @@ fiducial
 0
 Fiducial
 Fiducial_0.75mm_Dia_1.5mm_Outer
-Circular Fiducial, 0.75mm bare copper top, 1.5mm keepout (Level B)
-fiducial
+Circular Fiducial, 0.75mm bare copper top; 1.5mm keepout (Level B)
+marker
 0
 1
-0
+1
 Fiducial
 Fiducial_0.75mm_Mask1.5mm
 Circular Fiducial, 0.75mm bare copper, 1.5mm soldermask opening (Level B)
@@ -45522,25 +45550,25 @@ fiducial
 0
 Fiducial
 Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom
-Circular Fiducial, 1mm bare copper bottom, 2.54mm keepout
-fiducial
+Circular Fiducial, 1mm bare copper bottom; 2.54mm keepout
+marker
 0
 1
-0
+1
 Fiducial
 Fiducial_1mm_Dia_2.54mm_Outer_CopperTop
-Circular Fiducial, 1mm bare copper top, 2.54mm keepout
-fiducial
+Circular Fiducial, 1mm bare copper top; 2.54mm keepout
+marker
 0
 1
-0
+1
 Fiducial
 Fiducial_1mm_Dia_2mm_Outer
-Circular Fiducial, 1mm bare copper top, 2mm keepout (Level A)
-fiducial
+Circular Fiducial, 1mm bare copper top; 2mm keepout (Level A)
+marker
 0
 1
-0
+1
 Fiducial
 Fiducial_1mm_Mask2mm
 Circular Fiducial, 1mm bare copper, 2mm soldermask opening (Level A)
@@ -45557,106 +45585,106 @@ fiducial
 0
 Fiducial
 Fiducial_Modern_CopperBottom
-Fiducial, Modern, Copper Bottom
-fiducial
+Fiducial, Modern, Copper Bottom, Passermarke,
+Fiducial, Modern, Copper Bottom, Passermarke,
 0
 1
 0
 Fiducial
 Fiducial_Modern_CopperTop
-Fiducial, Modern, Copper Top
-fiducial
+Fiducial, Modern, Copper Top, Passermarke,
+Fiducial, Modern, Copper Top, Passermarke,
 0
 1
 0
 Fiducial
 Fiducial_Modern_SilkscreenTop
-Fiducial, Modern, Silkscreen Top
-fiducial
+Fiducial, Modern, Silkscreen Top, Passermarke,
+Fiducial, Modern, Silkscreen Top, Passermarke,
 0
 1
 0
 Fiducial
 Fiducial_classic_Small_CopperBottom_Type1
-Fiducial, Classic, Small, Copper Bottom, Type 1
-fiducial
+Fiducial, Classical, Small, Copper Bottom, Typ 1, Passermarke,
+Fiducial, Classical, Small, Copper Bottom, Typ 1, Passermarke,
 0
 1
 0
 Fiducial
 Fiducial_classic_Small_CopperBottom_Type2
-Fiducial, Classic, Small, Copper Bottom, Type 2
-fiducial
+Fiducial, Classical, Small, Copper Bottom, Typ 2, Passermarke,
+Fiducial, Classical, Small, Copper Bottom, Typ 2, Passermarke,
 0
 1
 0
 Fiducial
 Fiducial_classic_Small_CopperTop_Type1
-Fiducial, Classic, Small, Copper Top, Type 1
-fiducial
+Fiducial, Classical, Small, Copper Top, Typ 1, Passermarke,
+Fiducial, Classical, Small, Copper Top, Typ 1, Passermarke,
 0
 1
 0
 Fiducial
 Fiducial_classic_Small_CopperTop_Type2
-Fiducial, Classic, Small, Copper Top, Type 2
-fiducial
+Fiducial, Classical, Small, Copper Top, Typ 2, Passermarke,
+Fiducial, Classical, Small, Copper Top, Typ 2, Passermarke,
 0
 1
 0
 Fiducial
 Fiducial_classic_Small_SilkscreenTop_Type1
-Fiducial, Classic, Small, Copper Top, Type 1
-fiducial
+Fiducial, Classical, Small, Copper Top, Typ 1, Passermarke,
+Fiducial, Classical, Small, Copper Top, Typ 1, Passermarke,
 0
 1
 0
 Fiducial
 Fiducial_classic_Small_SilkscreenTop_Type2
-Fiducial, Classic, Small, Silkscreen Top, Type 2
-fiducial
+Fiducial, Classical, Small, Silkscreen Top, Typ 2, Passermarke,
+Fiducial, Classical, Small, Silkscreen Top, Typ 2, Passermarke,
 0
 1
 0
 Fiducial
 Fiducial_classic_big_CopperBottom_Type1
-Fiducial, Classic, Big, Copper Bottom, Type 1
-fiducial
+Fiducial, Classical, Big, Copper Bottom, Typ 1, Passermarke,
+Fiducial, Classical, Big, Copper Bottom, Typ 1, Passermarke, Passermarke,
 0
 1
 0
 Fiducial
 Fiducial_classic_big_CopperBottom_Type2
-Fiducial, Classic, Big, Copper Bottom, Type 2
-fiducial
+Fiducial, Classical, Big, Copper Bottom, Typ 2, Passermarke,
+Fiducial, Classical, Big, Copper Bottom, Typ 2, Passermarke, Passermarke,
 0
 1
 0
 Fiducial
 Fiducial_classic_big_CopperTop_Type1
-Fiducial, Classic, Big, Copper Top, Type 1
-fiducial
+Fiducial, Classical, Big, Copper Top, Typ 1, Passermarke,
+Fiducial, Classical, Big, Copper Top, Typ 1, Passermarke,
 0
 1
 0
 Fiducial
 Fiducial_classic_big_CopperTop_Type2
-Fiducial, Classic, Big, Copper Top, Type 2
-fiducial
+Fiducial, Classical, Big, Copper Top, Typ 2, Passermarke,
+Fiducial, Classical, Big, Copper Top, Typ 2, Passermarke,
 0
 1
 0
 Fiducial
 Fiducial_classic_big_SilkscreenTop_Type1
-Fiducial, Classic, Big, Silkscreen Top, Type 1
-fiducial
+Fiducial, Classical, Big, Silkscreen Top, Typ 1, Passermarke,
+Fiducial, Classical, Big, Silkscreen Top, Typ 1, Passermarke,
 0
 1
 0
 Fiducial
 Fiducial_classic_big_SilkscreenTop_Type2
-Fiducial, Classic, Big, Silkscreen Top, Type 2
-fiducial
+Fiducial, Classical, Big, Silkscreen Top, Typ 2, Passermarke,
+Fiducial, Classical, Big, Silkscreen Top, Typ 2, Passermarke,
 0
 1
 0
@@ -67634,13 +67662,6 @@ Diodes SIP-3 Ammo Pack
 3
 3
 Sensor_Current
-Diodes_SIP-3_AmmoPack
-Diodes SIP3 Ammo Pack, https://www.diodes.com/assets/Package-Files/SIP-3-Ammo-Pack.pdf
-SIP3 Ammo Pack
-0
-3
-3
-Sensor_Current
 LEM_HO8-NP
 LEM HO 8/15/25-NP Current Transducer (https://www.lem.com/sites/default/files/products_datasheets/ho-np-0000_series.pdf)
 current transducer
@@ -73149,69 +73170,6 @@ transformer flyback
 0
 10
 10
-Type-C
-12401598E4#2A
-
-
-0
-28
-28
-Type-C
-HRO-TYPE-C-31-M-12
-
-
-0
-16
-13
-Type-C
-HRO-TYPE-C-31-M-12-Assembly
-
-
-0
-16
-13
-Type-C
-HRO-TYPE-C-31-M-12-HandSoldering
-
-
-0
-16
-13
-Type-C
-HRO-TYPE-C-31-M-13
-
-
-0
-16
-13
-Type-C
-USB_C_GCT_USB4085
-
-
-0
-20
-17
-Type-C
-Wurth-632723300011
-
-
-0
-32
-27
-Type-C
-Wurth-632723300011-HandSoldering
-
-
-0
-30
-26
-Type-C
-Wurth-632723300011-MaximumExtensionMount
-
-
-0
-32
-27
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -73968,234 +73926,3 @@ varistor SIOV
 0
 2
 2
-mcu_footprints
-Feather-Generic
-
-
-0
-32
-28
-mcu_footprints
-Feather-Generic-no-holes
-
-
-0
-28
-28
-mcu_footprints
-Teensy1.0
-11
-
-0
-27
-27
-mcu_footprints
-Teensy1.0++
-20
-
-0
-51
-50
-mcu_footprints
-Teensy2.0
-11
-
-0
-31
-31
-mcu_footprints
-Teensy2.0++
-20
-
-0
-52
-51
-mcu_footprints
-Teensy3.6
-
-
-0
-55
-55
-mcu_footprints
-Teensy30_31_32_LC
-
-
-0
-51
-51
-mcu_footprints
-Teensy35_36
-
-
-0
-81
-81
-mcu_footprints
-cc1350-rf-module-v1
-
-
-0
-75
-39
-mcu_footprints
-cc1350-rf-module-v1-footprint
-
-
-0
-75
-39
-rak4260
-RAK4260-footprint_w_solder_paste
-
-
-0
-40
-37
-rak4260
-RAK4260-module-castellated
-
-
-0
-40
-37
-switch-footprints
-BK-1280-PC6
-
-
-0
-2
-2
-switch-footprints
-CPC2907B
-
-
-0
-8
-8
-switch-footprints
-DIP-SWITCH-2-2.54mm
-
-
-0
-4
-4
-switch-footprints
-DIPSWITCH-02
-DIP SWITCH
-DIP SWITCH
-0
-4
-4
-switch-footprints
-EG1271
-
-
-0
-6
-6
-switch-footprints
-EG1271_COMM
-
-
-0
-6
-3
-switch-footprints
-MFS101D-6-Z
-
-
-0
-5
-3
-switch-footprints
-MSS22D18
-
-
-0
-6
-3
-switch-footprints
-MSS22D18_2pad
-
-
-0
-6
-2
-switch-footprints
-SKHMQKE010_PushButton
-Surface Mount Tactile Switch for High-Density Packaging with Ground Terminal
-Tactile Switch
-0
-5
-3
-switch-footprints
-SOP-8-g3vm-202j1
-8-Lead, 300\" Wide, Surface Mount Package (https://www.fairchildsemi.com/package-drawings/ML/MLSOP08A.pdf)
-LSOP 2.54mm 300mil
-0
-8
-8
-switch-footprints
-SW_Push_SKRPACE010
-
-tactile switch kmr2
-0
-4
-2
-tinylora_v1
-ABS05_32.768KHz Crystal
-
-
-0
-2
-2
-tinylora_v1
-Oscilator_2.5x2.0
-
-
-0
-4
-4
-tinylora_v1
-QFN-12-1EP_3x3mm_P0.5mm_EP1.65x1.65mm
-QFN, 12 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_12_%2005-08-1855.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-QFN DFN_QFN
-0
-14
-13
-tinylora_v1
-SMA_J_P_X_ST_EM1_EdgeMount
-http://www.amphenolrf.com/132289.html
-SMA
-0
-5
-2
-tinylora_v1
-TFBGA-64_6.0x6.0mm_Layout8x8_P0.65mm
-XFBGA-64, https://www.nxp.com/docs/en/package-information/SOT1555-1.pdf
-XFBGA-64
-0
-64
-64
-tinylora_v1
-tinylora_v1-footprint_w_s_paste
-
-
-0
-31
-31
-tinylora_v1
-tinylora_v1_castellated
-
-
-0
-62
-31
-tinylora_v1
-tinylora_v1_footprint
-
-
-0
-31
-31
