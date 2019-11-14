@@ -4,4 +4,6 @@
   (lib (name my_RF_Modules)(type Legacy)(uri C:/Users/orkha/Google-Drive-1/FILE_EXCHANGE/PCB_Projects/KiCAD/mylib/RF/my_RF_Modules.lib)(options "")(descr ""))
   (lib (name TLM-4260-breakout-v1_0-rescue)(type Legacy)(uri ${KIPRJMOD}/TLM-4260-breakout-v1_0-rescue.lib)(options "")(descr ""))
   (lib (name rak4260)(type Legacy)(uri C:/Users/orkha/Google-Drive-1/FILE_EXCHANGE/PCB_Projects/KiCAD/TinyLoraModule/RAK4260-lib/rak4260.lib)(options "")(descr ""))
+  (lib (name TinyLoRa-4260-breakout-v1_0-rescue)(type Legacy)(uri ${KIPRJMOD}/TinyLoRa-4260-breakout-v1_0-rescue.lib)(options "")(descr ""))
+  (lib (name TinyLoRa-Feather-4260-v1_0-rescue)(type Legacy)(uri ${KIPRJMOD}/TinyLoRa-Feather-4260-v1_0-rescue.lib)(options "")(descr ""))
 )

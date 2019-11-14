@@ -1,11 +1,11 @@
 EESchema Schematic File Version 4
-LIBS:TLM-4260-breakout-v1_0-cache
+LIBS:TinyLoRa-Feather-4260-v1_0-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "TinyLoRa RAK4260 Feather Breakout"
+Title "TinyLoRa Feather RAK4260 Breakout"
 Date "2019-11-04"
 Rev "1.0"
 Comp "MakerTronika Labs"
@@ -573,7 +573,7 @@ Text Notes 4075 2325 0    51   Italic 10
 Indicator LEDs
 Wire Notes Line
 	11175 500  6550 500 
-Text Notes 6625 4175 0    59   Italic 12
+Text Notes 9125 4175 0    59   Italic 12
 RAK4260 ATSAMR34 based RF+MCU Module
 $Comp
 L power:+3.3V #PWR042
@@ -980,7 +980,7 @@ F 3 "http://infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresigh
 	1    0    0    -1  
 $EndComp
 $Comp
-L TLM-4260-breakout-v1_0-rescue:Feather-Generic-my-Arduino-Boards U6
+L TinyLoRa-Feather-4260-v1_0-rescue:Feather-Generic-my-Arduino-Boards-TLM-4260-breakout-v1_0-rescue-TinyLoRa-4260-breakout-v1_0-rescue U6
 U 1 1 5DC21E0A
 P 8450 4650
 F 0 "U6" H 8900 3975 50  0000 C CNB
@@ -1092,7 +1092,7 @@ Wire Notes Line
 Text Notes 2925 3400 0    50   ~ 0
 90 Ω diff trace
 $Comp
-L TLM-4260-breakout-v1_0-rescue:RAK4260-rak4260 U4
+L TinyLoRa-Feather-4260-v1_0-rescue:RAK4260-rak4260-TLM-4260-breakout-v1_0-rescue-TinyLoRa-4260-breakout-v1_0-rescue U4
 U 1 1 5DE73C41
 P 8750 2100
 F 0 "U4" H 8725 2675 59  0000 L CNB
@@ -1529,8 +1529,8 @@ PA08_AIN0
 Connection ~ 5950 5750
 Wire Wire Line
 	5575 5750 5650 5750
-Text Notes 6625 3950 0    59   Italic 0
-~Notes:\nSAMR34 Pins which are NC/used internally.\n- PA13 (BAND_SEL*)\n- PA28 (TCXO PWR*)\n- PB03 (Backup Bat)\n\n*to be verified
+Text Notes 6650 4050 0    59   Italic 0
+SAMR34 Pins which are NC/used internally:
 Text Notes 10650 2725 0    50   ~ 0
 PA28
 NoConn ~ 10550 2700
@@ -1629,7 +1629,7 @@ Wire Notes Line width 31 style solid
 Text Notes 3800 6400 0    51   Italic 10
 Pre-Provisioned secure element \nwith LoRaWAN TTN Join Server \nSOIC-8 (Optional)
 $Comp
-L TLM-4260-breakout-v1_0-rescue:ATECC608A-SSHDA-Security U7
+L TinyLoRa-Feather-4260-v1_0-rescue:ATECC608A-SSHDA-Security-TLM-4260-breakout-v1_0-rescue-TinyLoRa-4260-breakout-v1_0-rescue U7
 U 1 1 5EAF211B
 P 4875 5450
 F 0 "U7" H 4750 5700 50  0000 R CNN
@@ -1724,7 +1724,7 @@ Wire Notes Line width 31 style solid
 Wire Notes Line width 31 style solid
 	475  4575 6525 4575
 $Comp
-L TLM-4260-breakout-v1_0-rescue:RGB_LED_FM-B2020RGBA-tinylora_v1 D5
+L TinyLoRa-Feather-4260-v1_0-rescue:RGB_LED_FM-B2020RGBA-tinylora_v1-TLM-4260-breakout-v1_0-rescue-TinyLoRa-4260-breakout-v1_0-rescue D5
 U 1 1 5DC3BE6D
 P 4800 3325
 F 0 "D5" V 4950 3650 50  0000 R CNN
@@ -10347,4 +10347,18 @@ Text GLabel 4975 4300 0    39   BiDi ~ 8
 PA14
 Text GLabel 5750 2475 0    39   BiDi ~ 8
 PA15
+Text Notes 6675 3925 0    50   ~ 10
+BAND_SEL\nRFSW VCC\nTCXO PWR
+Text Notes 7225 3925 0    50   ~ 0
+PA13\nPA28\nPB03
+Text Notes 7750 3925 0    50   ~ 0
+PA13\nPA09\nPA09
+Text Notes 7150 3650 0    50   ~ 10
+RAK4260    TLM01-v1.2\n
+Wire Notes Line
+	6675 3650 8125 3650
+Wire Notes Line
+	7575 3600 7575 3950
+Wire Notes Line
+	7100 3600 7100 3950
 $EndSCHEMATC

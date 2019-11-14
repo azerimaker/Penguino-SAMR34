@@ -537,11 +537,11 @@ X 2 2 200 0 100 L 50 50 0 1 P
 ENDDRAW
 ENDDEF
 #
-# TLM-4260-breakout-v1_0-rescue_ATECC608A-SSHDA-Security
+# TinyLoRa-Feather-4260-v1_0-rescue_ATECC608A-SSHDA-Security-TLM-4260-breakout-v1_0-rescue-TinyLoRa-4260-breakout-v1_0-rescue
 #
-DEF TLM-4260-breakout-v1_0-rescue_ATECC608A-SSHDA-Security U 0 20 Y Y 1 F N
+DEF TinyLoRa-Feather-4260-v1_0-rescue_ATECC608A-SSHDA-Security-TLM-4260-breakout-v1_0-rescue-TinyLoRa-4260-breakout-v1_0-rescue U 0 20 Y Y 1 F N
 F0 "U" 150 250 50 H V C CNN
-F1 "TLM-4260-breakout-v1_0-rescue_ATECC608A-SSHDA-Security" 400 -250 50 H V C CNN
+F1 "TinyLoRa-Feather-4260-v1_0-rescue_ATECC608A-SSHDA-Security-TLM-4260-breakout-v1_0-rescue-TinyLoRa-4260-breakout-v1_0-rescue" 400 -250 50 H V C CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 0 0 50 H I C CNN
 F3 "" 150 250 50 H I C CNN
 $FPLIST
@@ -556,11 +556,11 @@ X VCC 8 0 300 100 D 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# TLM-4260-breakout-v1_0-rescue_Feather-Generic-my-Arduino-Boards
+# TinyLoRa-Feather-4260-v1_0-rescue_Feather-Generic-my-Arduino-Boards-TLM-4260-breakout-v1_0-rescue-TinyLoRa-4260-breakout-v1_0-rescue
 #
-DEF TLM-4260-breakout-v1_0-rescue_Feather-Generic-my-Arduino-Boards U 0 40 Y Y 1 F N
+DEF TinyLoRa-Feather-4260-v1_0-rescue_Feather-Generic-my-Arduino-Boards-TLM-4260-breakout-v1_0-rescue-TinyLoRa-4260-breakout-v1_0-rescue U 0 40 Y Y 1 F N
 F0 "U" 75 200 50 H V C CNN
-F1 "TLM-4260-breakout-v1_0-rescue_Feather-Generic-my-Arduino-Boards" 475 -1725 50 H V C CNB
+F1 "TinyLoRa-Feather-4260-v1_0-rescue_Feather-Generic-my-Arduino-Boards-TLM-4260-breakout-v1_0-rescue-TinyLoRa-4260-breakout-v1_0-rescue" 475 -1725 50 H V C CNB
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -611,11 +611,11 @@ X ~ 9 -100 -800 100 R 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
-# TLM-4260-breakout-v1_0-rescue_RAK4260-rak4260
+# TinyLoRa-Feather-4260-v1_0-rescue_RAK4260-rak4260-TLM-4260-breakout-v1_0-rescue-TinyLoRa-4260-breakout-v1_0-rescue
 #
-DEF TLM-4260-breakout-v1_0-rescue_RAK4260-rak4260 U? 0 40 Y Y 1 F N
+DEF TinyLoRa-Feather-4260-v1_0-rescue_RAK4260-rak4260-TLM-4260-breakout-v1_0-rescue-TinyLoRa-4260-breakout-v1_0-rescue U? 0 40 Y Y 1 F N
 F0 "U?" 50 550 59 H V C CNN
-F1 "TLM-4260-breakout-v1_0-rescue_RAK4260-rak4260" 850 -400 79 H V C CNB
+F1 "TinyLoRa-Feather-4260-v1_0-rescue_RAK4260-rak4260-TLM-4260-breakout-v1_0-rescue-TinyLoRa-4260-breakout-v1_0-rescue" 850 -400 79 H V C CNB
 F2 "" -100 0 50 H I C CNN
 F3 "" -100 0 50 H I C CNN
 DRAW
@@ -661,11 +661,11 @@ X PB22 9 -100 -800 100 R 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
-# TLM-4260-breakout-v1_0-rescue_RGB_LED_FM-B2020RGBA-tinylora_v1
+# TinyLoRa-Feather-4260-v1_0-rescue_RGB_LED_FM-B2020RGBA-tinylora_v1-TLM-4260-breakout-v1_0-rescue-TinyLoRa-4260-breakout-v1_0-rescue
 #
-DEF TLM-4260-breakout-v1_0-rescue_RGB_LED_FM-B2020RGBA-tinylora_v1 D 0 0 Y N 1 F N
+DEF TinyLoRa-Feather-4260-v1_0-rescue_RGB_LED_FM-B2020RGBA-tinylora_v1-TLM-4260-breakout-v1_0-rescue-TinyLoRa-4260-breakout-v1_0-rescue D 0 0 Y N 1 F N
 F0 "D" 0 370 50 H V C CNN
-F1 "TLM-4260-breakout-v1_0-rescue_RGB_LED_FM-B2020RGBA-tinylora_v1" 0 -350 50 H V C CNN
+F1 "TinyLoRa-Feather-4260-v1_0-rescue_RGB_LED_FM-B2020RGBA-tinylora_v1-TLM-4260-breakout-v1_0-rescue-TinyLoRa-4260-breakout-v1_0-rescue" 0 -350 50 H V C CNN
 F2 "" 0 -50 50 H I C CNN
 F3 "" 0 -50 50 H I C CNN
 $FPLIST

@@ -45,7 +45,7 @@
   )
 
   (setup
-    (last_trace_width 0.3)
+    (last_trace_width 0.1524)
     (user_trace_width 0.1524)
     (user_trace_width 0.18)
     (user_trace_width 0.2)
@@ -89,6 +89,7 @@
     (pad_to_mask_clearance 0.051)
     (solder_mask_min_width 0.25)
     (aux_axis_origin 0 0)
+    (grid_origin 135.89 93.98)
     (visible_elements 7FFDFF7F)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
@@ -3399,7 +3400,7 @@
   )
 
   (gr_text "open\nhardware" (at 131.1 89.6) (layer B.SilkS) (tstamp 5DC95A44)
-    (effects (font (size 0.8 0.9) (thickness 0.1875)) (justify mirror))
+    (effects (font (size 0.85 1) (thickness 0.1875)) (justify mirror))
   )
   (gr_text 3V (at 127.5 77.6) (layer B.SilkS) (tstamp 5DC954CD)
     (effects (font (size 0.8 0.9) (thickness 0.1875) italic) (justify mirror))
