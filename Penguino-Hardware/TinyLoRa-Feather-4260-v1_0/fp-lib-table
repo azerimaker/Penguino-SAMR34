@@ -1,7 +1,0 @@
-(fp_lib_table
-  (lib (name Type-C)(type KiCad)(uri C:/Users/orkha/Google-Drive-1/FILE_EXCHANGE/PCB_Projects/KiCAD/mylib/Custom_Connectors/Type-C.pretty)(options "")(descr ""))
-  (lib (name tinylora_v1)(type KiCad)(uri C:/Users/orkha/Google-Drive-1/FILE_EXCHANGE/PCB_Projects/KiCAD/TinyLoraModule/TLM-v1-lib/tinylora_v1.pretty)(options "")(descr ""))
-  (lib (name switch-footprints)(type KiCad)(uri C:/Users/orkha/Google-Drive-1/FILE_EXCHANGE/PCB_Projects/KiCAD/mylib/Switches-Relays/switch-footprints.pretty)(options "")(descr ""))
-  (lib (name rak4260)(type KiCad)(uri C:/Users/orkha/Google-Drive-1/FILE_EXCHANGE/PCB_Projects/KiCAD/TinyLoraModule/RAK4260-lib/rak4260.pretty)(options "")(descr ""))
-  (lib (name Custom_Logos)(type KiCad)(uri C:/Users/orkha/Google-Drive-1/FILE_EXCHANGE/PCB_Projects/KiCAD/mylib/Custom_Logos.pretty)(options "")(descr ""))
-)

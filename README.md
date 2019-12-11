@@ -25,6 +25,9 @@ This repo contains all the necessary design and fabrication files for the Pengui
 ### Penguino Feather v1.1 Blinky:
 ![TLM01 v1 first prototypes](Penguino-Photos/tinyLoRa-v1.1-running.JPG)
 
+### Penguino Feather 4260 v1.0:
+![TLM01 v1 first prototypes](Penguino-Photos/Penguino_Feather_4260_v1_1.png)
+
 
 <div align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
