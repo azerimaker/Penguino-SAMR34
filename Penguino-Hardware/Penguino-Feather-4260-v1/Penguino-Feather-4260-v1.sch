@@ -1091,17 +1091,6 @@ Wire Notes Line
 Text Notes 2925 3400 0    50   ~ 0
 90 Ω diff trace
 $Comp
-L Penguino-Feather-4260-v1-rescue:RAK4260-rak4260-TLM-4260-breakout-v1_0-rescue-TinyLoRa-4260-breakout-v1_0-rescue-TinyLoRa-Feather-4260-v1_0-rescue-Penguino-Feather-4260-v1_0-rescue-Penguino-Feather-4260-v1_0-rescue U4
-U 1 1 5DE73C41
-P 8750 2100
-F 0 "U4" H 8725 2675 59  0000 L CNB
-F 1 "RAK4260" H 9350 1750 79  0000 L CNB
-F 2 "rak4260:RAK4260-footprint_w_solder_paste" H 8650 2100 50  0001 C CNN
-F 3 "" H 8650 2100 50  0001 C CNN
-	1    8750 2100
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:C_Small C5
 U 1 1 5DE9B2AD
 P 7700 2200
@@ -1505,9 +1494,9 @@ Wire Wire Line
 	9650 3400 9650 3900
 Wire Wire Line
 	9550 3400 9550 4000
-Text GLabel 10650 2900 2    39   BiDi ~ 8
-PA18_TX3
 Text GLabel 10650 2800 2    39   BiDi ~ 8
+PA18_TX3
+Text GLabel 10650 2900 2    39   BiDi ~ 8
 PA19_RX3
 Wire Wire Line
 	10650 2800 10550 2800
@@ -1530,8 +1519,6 @@ Wire Wire Line
 	5575 5750 5650 5750
 Text Notes 6650 4050 0    59   Italic 0
 SAMR34 Pins which are NC/used internally:
-Text Notes 10650 2725 0    50   ~ 0
-PA28
 NoConn ~ 10550 2700
 $Comp
 L power:GND #PWR060
@@ -3676,4 +3663,15 @@ Wire Notes Line
 	7575 3600 7575 3950
 Wire Notes Line
 	7100 3600 7100 3950
+$Comp
+L rak4260:RAK4260 U4
+U 1 1 5DF9B993
+P 8750 2100
+F 0 "U4" H 8725 2650 59  0000 L CNB
+F 1 "RAK4260" H 9350 1700 79  0000 L CNB
+F 2 "rak4260:RAK4260-footprint_w_solder_paste" H 8650 2100 50  0001 C CNN
+F 3 "" H 8650 2100 50  0001 C CNN
+	1    8750 2100
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
