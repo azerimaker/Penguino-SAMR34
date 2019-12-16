@@ -1,7 +1,0 @@
-(sym_lib_table
-  (lib (name my-Arduino-Boards)(type Legacy)(uri C:/Users/orkha/Google-Drive-1/FILE_EXCHANGE/PCB_Projects/KiCAD/mylib/MCUs/my-Arduino-Boards.lib)(options "")(descr ""))
-  (lib (name my_RF_Modules)(type Legacy)(uri C:/Users/orkha/Google-Drive-1/FILE_EXCHANGE/PCB_Projects/KiCAD/mylib/RF/my_RF_Modules.lib)(options "")(descr ""))
-  (lib (name rak4260)(type Legacy)(uri C:/Users/orkha/Google-Drive-1/FILE_EXCHANGE/PCB_Projects/KiCAD/TinyLoraModule/RAK4260-lib/rak4260.lib)(options "")(descr ""))
-  (lib (name Penguino-Feather-4260-v1_0-rescue)(type Legacy)(uri ${KIPRJMOD}/Penguino-Feather-4260-v1_0-rescue.lib)(options "")(descr ""))
-  (lib (name tinylora_v1)(type Legacy)(uri C:/Users/orkha/Google-Drive-1/FILE_EXCHANGE/PCB_Projects/KiCAD/TinyLoraModule/TLM-v1-lib/tinylora_v1.lib)(options "")(descr ""))
-)

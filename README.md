@@ -1,5 +1,5 @@
 # Penguino Feather LoRa development board
-This repo contains all the necessary design and fabrication files for the Penguino radio module and its @Adafruit Father style breakout board. First prototype batch has been sold on [Tindie](https://www.tindie.com/products/16985/) and some more info can be found there.
+This repo contains all the necessary design and fabrication files for the Penguino radio module and its @Adafruit Father style breakout board. First prototype batch has been sold on [Tindie](https://www.tindie.com/products/16985/) and some more info can be found on the corresponding [hackaday.io](https://hackaday.io/project/168876-penguino-feather-samr34-lora-dev-board) project page.
 
 ### Upcoming updates w/ v1.3:
 - This product will now be called Penguino instead of TinyLoRa due to a request from Semtech - the company behind the LoRa&reg; trademark. 
@@ -17,16 +17,17 @@ This repo contains all the necessary design and fabrication files for the Pengui
 - IO pins: 27
 - Module Dimenions: ~16.5x14x2 mm
 
+
 ### Penguino RF Module v1.1:
 ![TLM01 v1 front](Penguino-Photos/tlm-1.1-front.JPG)
 ![TLM01 v1 back](Penguino-Photos/tlm-1.1-back.JPG)
 ![TLM01 v1 OSHpark PCB](Penguino-Photos/02-oshparkPCB.jpg)
 
+### Penguino Feather 4260 v1.1:
+![TLM01 v1 first prototypes](Penguino-Photos/Penguino-Feather-4260-v1.1-3.png)
+
 ### Penguino Feather v1.1 Blinky:
 ![TLM01 v1 first prototypes](Penguino-Photos/tinyLoRa-v1.1-running.JPG)
-
-### Penguino Feather 4260 v1.0:
-![TLM01 v1 first prototypes](Penguino-Photos/Penguino_Feather_4260_v1_1.png)
 
 
 <div align="center">
