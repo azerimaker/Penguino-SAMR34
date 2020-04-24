@@ -30,6 +30,7 @@ This repo contains all the necessary design and fabrication files for the Pengui
 ![TLM01 v1 first prototypes](Penguino-Photos/tinyLoRa-v1.1-running.JPG)
 
 
-Hardware license: CERN-OHL-S v2
-Software license: under MIT unless otherise indicated 
-Documentation license:  CC BY-SA 4.0 International.
+License:
+- Hardware license: CERN-OHL-S v2
+- Software license: under MIT unless otherise indicated 
+- Documentation license:  CC BY-SA 4.0 International.
