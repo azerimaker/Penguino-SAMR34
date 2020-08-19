@@ -1,11 +1,9 @@
 # Penguino Feather LoRa development board
-This repo contains all the necessary design and fabrication files for the Penguino radio module and its @Adafruit Father style breakout board. First prototype batch has been sold on [Tindie](https://www.tindie.com/products/16985/) and some more info can be found on the corresponding [hackaday.io](https://hackaday.io/project/168876-penguino-feather-samr34-lora-dev-board) project page.
+This repo contains all the necessary design and fabrication files for the Penguino radio module and its @Adafruit Father style breakout board. First prototype batch is being sold on my [Tindie](https://www.tindie.com/products/16985/) store.
 
-### Upcoming updates w/ v1.3:
-- This product will now be called Penguino instead of TinyLoRa due to a request from Semtech - the company behind the LoRa&reg; trademark. 
 
 ### Penguino Feather v1.1:
-![Penguino Feather Breakout v1.1](Penguino-Photos/tinyLoRa-v1.1.JPG)
+![Penguino Feather Breakout v1.1](Penguino-Photos/penguino-v1.1.png)
 
 ## Penguino RF Module v1.2 Specs:
 - [ATSAMR34J18](http://ww1.microchip.com/downloads/en/DeviceDoc/SAMR34-R35-Low-Power-LoRa-Sub-GHz-SiP-Data-Sheet-DS70005356B.pdf) LoRA System-in-Package (SiP) based RF module
@@ -34,3 +32,8 @@ License:
 - Hardware license: CERN-OHL-S v2
 - Software license: under MIT unless otherise indicated 
 - Documentation license:  CC BY-SA 4.0 International.
+
+
+________________________________
+## Open Source Hardware
+This board is an OSHWA approved design: [AZ000002](https://certification.oshwa.org/az000002.html)
