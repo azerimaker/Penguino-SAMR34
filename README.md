@@ -21,8 +21,6 @@ This repo contains all the necessary design and fabrication files for the Pengui
 ![TLM01 v1 back](Penguino-Photos/tlm-1.1-back.JPG)
 ![TLM01 v1 OSHpark PCB](Penguino-Photos/02-oshparkPCB.jpg)
 
-### Penguino Feather 4260 v1.1:
-![TLM01 v1 first prototypes](Penguino-Photos/Penguino-Feather-4260-v1.1-3.png)
 
 ### Penguino Feather v1.1 Blinky:
 ![TLM01 v1 first prototypes](Penguino-Photos/tinyLoRa-v1.1-running.JPG)
